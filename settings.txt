@@ -1,0 +1,18 @@
+{
+"site_url":"trushenkov-dmi.infinityfreeapp.com",
+"site_title": "Трушенков Дмитрий: Java разработчик",
+"description": "Трушенков Дмитрий - портфолио, резюме и блог Java разработчика",
+"keywords": "Разработка корпоративных приложений Java",
+"name": "Трушенков Дмитрий",
+"tag1":"Java разработчик",
+"companyName":"в компании ООО \"АйТи Софт\"",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/di_736",
+"vk":"https://vk.com/therealdmi",
+"email":"mailto:diman28051999@gmail.com",
+"city": "Пенза"
+}
